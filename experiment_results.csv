@@ -1,0 +1,509 @@
+﻿task,method,prompt,output,trial,execution_order
+meeting_email,cuneiform,"Task: Meeting_Request_Email
+Purpose: Request a project review meeting with team leader
+Input:
+  Recipient = ""Team Leader Kim""
+  Tone = ""Formal + Friendly""
+  Time_Options = [""Tuesday 2 PM"", ""Wednesday 11 AM"", ""Thursday 4 PM""]
+  Response_Deadline = ""Within 3 days""
+Output: ""Business Email""
+","**Subject:** Request for Project Review Meeting – Your Availability
+
+Dear Team Leader Kim,
+
+I hope this message finds you well.
+
+I am writing to request a meeting with you to review our current project progress and discuss the next steps moving forward. Your guidance and feedback would be invaluable as we approach this critical phase.
+
+I have identified a few time slots that might work well for both of us:
+
+- **Tuesday at 2:00 PM**
+- **Wednesday at 11:00 AM**
+- **Thursday at 4:00 PM**
+
+Would any of these options be convenient for you? The meeting should take approximately 45-60 minutes, and I will come prepared with all relevant project materials and updates.
+
+If none of these times suit your schedule, I would be more than happy to work around your availability. Please let me know your preference at your earliest convenience, ideally **within the next 3 days**, so we can confirm the meeting details.
+
+Thank you very much for your time and consideration. I look forward to our discussion and to hearing from you soon.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",1,B
+meeting_email,natural,"Write a polite business email to Team Leader Kim requesting a project review meeting this week. Use a formal yet friendly tone, suggest 2-3 available time slots, and mention that you're waiting for a response.","Subject: Request for Project Review Meeting This Week
+
+Dear Kim,
+
+I hope this email finds you well.
+
+I would like to schedule a project review meeting with you this week to discuss our current progress and address any outstanding items that may need your input.
+
+Would any of the following time slots work with your schedule?
+
+• **Wednesday, [Date], at 2:00 PM**
+• **Thursday, [Date], at 10:00 AM**
+• **Friday, [Date], at 3:00 PM**
+
+If none of these times are convenient, I'm happy to work around your availability. The meeting should take approximately 45 minutes to an hour.
+
+I look forward to hearing from you and appreciate your time in reviewing this request.
+
+Best regards,
+
+[Your Name]
+[Your Title]
+[Your Contact Information]",1,A
+meeting_email,natural,"Write a polite business email to Team Leader Kim requesting a project review meeting this week. Use a formal yet friendly tone, suggest 2-3 available time slots, and mention that you're waiting for a response.","Subject: Request for Project Review Meeting This Week
+
+Dear Kim,
+
+I hope this email finds you well.
+
+I would like to request a meeting with you this week to review the progress of our current project. I believe a discussion at this stage would be valuable to ensure we're aligned on key objectives and address any outstanding items.
+
+I have checked my calendar and would like to suggest the following time slots for your consideration:
+
+• **Wednesday, [Date] at 2:00 PM**
+• **Thursday, [Date] at 10:00 AM**
+• **Friday, [Date] at 3:00 PM**
+
+Please let me know which time works best for you, or feel free to propose an alternative if none of these suit your schedule. The meeting should take approximately 45 minutes to an hour.
+
+I look forward to hearing from you and appreciate your time in reviewing this request.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]",2,A
+meeting_email,cuneiform,"Task: Meeting_Request_Email
+Purpose: Request a project review meeting with team leader
+Input:
+  Recipient = ""Team Leader Kim""
+  Tone = ""Formal + Friendly""
+  Time_Options = [""Tuesday 2 PM"", ""Wednesday 11 AM"", ""Thursday 4 PM""]
+  Response_Deadline = ""Within 3 days""
+Output: ""Business Email""
+","**Subject:** Request for Project Review Meeting
+
+Dear Team Leader Kim,
+
+I hope this email finds you well.
+
+I am writing to request a meeting with you to review the current status of our project and discuss the next steps moving forward. Your guidance and feedback would be invaluable as we progress through this phase.
+
+I have identified a few time slots that might work well for our discussion:
+
+• **Tuesday at 2:00 PM**
+• **Wednesday at 11:00 AM**
+• **Thursday at 4:00 PM**
+
+Please let me know which option works best with your schedule, or feel free to suggest an alternative time if none of these are convenient. The meeting should take approximately 45-60 minutes.
+
+I would greatly appreciate it if you could confirm your availability **within the next three days** so we can ensure the meeting is scheduled promptly.
+
+Thank you for your time and consideration. I look forward to our discussion and to receiving your valuable insights on the project.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",2,B
+meeting_email,cuneiform,"Task: Meeting_Request_Email
+Purpose: Request a project review meeting with team leader
+Input:
+  Recipient = ""Team Leader Kim""
+  Tone = ""Formal + Friendly""
+  Time_Options = [""Tuesday 2 PM"", ""Wednesday 11 AM"", ""Thursday 4 PM""]
+  Response_Deadline = ""Within 3 days""
+Output: ""Business Email""
+","**Subject:** Request for Project Review Meeting
+
+Dear Team Leader Kim,
+
+I hope this email finds you well.
+
+I am writing to request a meeting with you to review the current status of our project and discuss the next steps moving forward. Your guidance and feedback would be invaluable as we progress through this phase.
+
+I have identified a few time slots that might work for both of us:
+
+• **Tuesday at 2:00 PM**
+• **Wednesday at 11:00 AM**
+• **Thursday at 4:00 PM**
+
+Please let me know which option works best with your schedule, or feel free to suggest an alternative time if none of these are convenient. The meeting should take approximately 45-60 minutes.
+
+I would greatly appreciate it if you could confirm your availability **within the next three days** so we can coordinate accordingly and ensure all necessary materials are prepared in advance.
+
+Thank you very much for your time and consideration. I look forward to our discussion and your valuable insights.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",3,B
+meeting_email,natural,"Write a polite business email to Team Leader Kim requesting a project review meeting this week. Use a formal yet friendly tone, suggest 2-3 available time slots, and mention that you're waiting for a response.","Subject: Request for Project Review Meeting This Week
+
+Dear Kim,
+
+I hope this email finds you well.
+
+I would like to schedule a project review meeting with you this week to discuss our current progress and align on next steps. I believe a brief discussion would be valuable to ensure we're on track with our objectives.
+
+I have the following time slots available and would be happy to work around your schedule:
+
+• **Thursday, [Date] at 2:00 PM**
+• **Friday, [Date] at 10:00 AM**
+• **Friday, [Date] at 3:30 PM**
+
+Please let me know which time works best for you, or feel free to suggest an alternative if none of these are convenient. The meeting should take approximately 30-45 minutes.
+
+I look forward to hearing from you and appreciate your time in reviewing this request.
+
+Best regards,
+[Your Name]
+[Your Title]
+[Your Contact Information]",3,A
+meeting_email,natural,"Write a polite business email to Team Leader Kim requesting a project review meeting this week. Use a formal yet friendly tone, suggest 2-3 available time slots, and mention that you're waiting for a response.","Subject: Request for Project Review Meeting This Week
+
+Dear Kim,
+
+I hope this email finds you well.
+
+I would like to schedule a project review meeting with you this week to discuss our current progress and align on next steps. I believe a brief discussion would be valuable to ensure we're on track with our objectives.
+
+Would any of the following time slots work with your schedule?
+
+- **Wednesday, [Date] at 2:00 PM**
+- **Thursday, [Date] at 10:00 AM**
+- **Friday, [Date] at 3:00 PM**
+
+If none of these times are convenient, I'm happy to work around your availability. Please feel free to suggest an alternative time that suits you better.
+
+I look forward to hearing from you and appreciate your time in reviewing this request.
+
+Best regards,
+[Your Name]
+[Your Position]
+[Your Contact Information]",4,A
+meeting_email,cuneiform,"Task: Meeting_Request_Email
+Purpose: Request a project review meeting with team leader
+Input:
+  Recipient = ""Team Leader Kim""
+  Tone = ""Formal + Friendly""
+  Time_Options = [""Tuesday 2 PM"", ""Wednesday 11 AM"", ""Thursday 4 PM""]
+  Response_Deadline = ""Within 3 days""
+Output: ""Business Email""
+","**Subject:** Request for Project Review Meeting – Your Availability This Week
+
+Dear Team Leader Kim,
+
+I hope this email finds you well.
+
+I am writing to request a meeting with you to review our current project progress and discuss the next steps moving forward. Your guidance and feedback would be invaluable as we approach the upcoming milestone.
+
+I have identified a few time slots that might work well this week, and I wanted to check your availability:
+
+• **Tuesday at 2:00 PM**
+• **Wednesday at 11:00 AM**
+• **Thursday at 4:00 PM**
+
+The meeting should take approximately 45-60 minutes. If none of these times work for your schedule, I am happy to accommodate alternative options that suit you better.
+
+Would you kindly let me know your preferred time slot **within the next three days**? This will help me coordinate with the rest of the team and ensure we have all necessary materials prepared.
+
+Thank you very much for your time and consideration. I look forward to hearing from you soon.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",4,B
+meeting_email,cuneiform,"Task: Meeting_Request_Email
+Purpose: Request a project review meeting with team leader
+Input:
+  Recipient = ""Team Leader Kim""
+  Tone = ""Formal + Friendly""
+  Time_Options = [""Tuesday 2 PM"", ""Wednesday 11 AM"", ""Thursday 4 PM""]
+  Response_Deadline = ""Within 3 days""
+Output: ""Business Email""
+","**Subject:** Request for Project Review Meeting
+
+Dear Team Leader Kim,
+
+I hope this email finds you well.
+
+I am writing to request a meeting with you to review the current status of our project and discuss the next steps moving forward. Your insights and guidance would be invaluable as we progress through this phase.
+
+I understand your schedule is quite busy, so I have prepared a few time options that might work for both of us:
+
+• **Tuesday at 2:00 PM**
+• **Wednesday at 11:00 AM**
+• **Thursday at 4:00 PM**
+
+The meeting should take approximately 45-60 minutes, and I will come prepared with all relevant project updates and materials for your review.
+
+Would any of these times be convenient for you? If none of these options work with your schedule, I would be happy to accommodate an alternative time that suits you better.
+
+I would greatly appreciate it if you could kindly confirm your availability **within the next 3 days** so we can finalize the arrangements accordingly.
+
+Thank you very much for your time and consideration. I look forward to hearing from you soon.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]",5,B
+meeting_email,natural,"Write a polite business email to Team Leader Kim requesting a project review meeting this week. Use a formal yet friendly tone, suggest 2-3 available time slots, and mention that you're waiting for a response.","Subject: Request for Project Review Meeting This Week
+
+Dear Kim,
+
+I hope this email finds you well.
+
+I would like to schedule a project review meeting with you this week to discuss our progress and align on next steps. I believe a brief meeting would be valuable to ensure we're on track with our objectives.
+
+I have the following time slots available and would be happy to work around your schedule:
+
+• **Wednesday, [Date] at 2:00 PM**
+• **Thursday, [Date] at 10:00 AM**
+• **Friday, [Date] at 3:00 PM**
+
+If none of these times work for you, please feel free to suggest an alternative that suits you better. I'm flexible and can adjust to accommodate your availability.
+
+I look forward to hearing from you at your earliest convenience.
+
+Thank you for your time and consideration.
+
+Best regards,
+[Your Name]
+[Your Position]
+[Your Contact Information]",5,A
+tech_summary,cuneiform,"Task: Technical_Document_Summary
+Purpose: Summarize long document into 3 sentences
+Input:
+  Document = ""Tech_Forum_2025_10.txt""
+  Output_Format = ""3 sentences, include technical terms, fact-based""
+  Exclude = ""Emotional expressions, promotional language""
+Output: ""Core Summary""
+","# Core Summary
+
+I'm ready to summarize the technical document, but I need you to provide the content of ""Tech_Forum_2025_10.txt"". Please paste the document text, and I'll generate a concise 3-sentence summary that:
+
+- Includes relevant technical terms
+- Focuses on factual information
+- Excludes emotional expressions and promotional language
+
+Please share the document content to proceed.",1,B
+tech_summary,natural,"Summarize the following technical document in 3 sentences. Include important technical terms and numbers. Focus on facts only, without emotional expressions.","I don't see a technical document attached to your message. Could you please provide the document you'd like me to summarize? Once you share it, I'll create a 3-sentence summary focusing on the key technical terms, numbers, and facts.",1,A
+tech_summary,natural,"Summarize the following technical document in 3 sentences. Include important technical terms and numbers. Focus on facts only, without emotional expressions.","I don't see a technical document attached to your message. Could you please provide the document you'd like me to summarize? Once you share it, I'll create a 3-sentence summary focusing on the key technical terms, numbers, and facts.",2,A
+tech_summary,cuneiform,"Task: Technical_Document_Summary
+Purpose: Summarize long document into 3 sentences
+Input:
+  Document = ""Tech_Forum_2025_10.txt""
+  Output_Format = ""3 sentences, include technical terms, fact-based""
+  Exclude = ""Emotional expressions, promotional language""
+Output: ""Core Summary""
+","# Core Summary
+
+I'm ready to summarize the technical document, but I need you to provide the content of ""Tech_Forum_2025_10.txt"" first. Please paste the document text, and I will generate a 3-sentence summary that:
+
+- Includes relevant technical terms
+- Focuses on factual information
+- Excludes emotional expressions and promotional language
+
+Please share the document content to proceed.",2,B
+tech_summary,cuneiform,"Task: Technical_Document_Summary
+Purpose: Summarize long document into 3 sentences
+Input:
+  Document = ""Tech_Forum_2025_10.txt""
+  Output_Format = ""3 sentences, include technical terms, fact-based""
+  Exclude = ""Emotional expressions, promotional language""
+Output: ""Core Summary""
+","# Core Summary
+
+I'm ready to summarize the technical document, but I need you to provide the contents of ""Tech_Forum_2025_10.txt"". Please paste the document text, and I'll create a 3-sentence summary that:
+
+- Includes relevant technical terms
+- Focuses on factual information
+- Excludes emotional expressions and promotional language
+
+Please share the document content to proceed.",3,B
+tech_summary,natural,"Summarize the following technical document in 3 sentences. Include important technical terms and numbers. Focus on facts only, without emotional expressions.","I don't see a technical document attached to your message. Could you please provide the document you'd like me to summarize? Once you share it, I'll create a 3-sentence summary focusing on the key technical terms, numbers, and facts.",3,A
+tech_summary,cuneiform,"Task: Technical_Document_Summary
+Purpose: Summarize long document into 3 sentences
+Input:
+  Document = ""Tech_Forum_2025_10.txt""
+  Output_Format = ""3 sentences, include technical terms, fact-based""
+  Exclude = ""Emotional expressions, promotional language""
+Output: ""Core Summary""
+","# Core Summary
+
+I'm ready to summarize the technical document, but I don't have access to the file ""Tech_Forum_2025_10.txt"". 
+
+To complete this task, please either:
+1. **Paste the document content** directly in your message, or
+2. **Upload the file** so I can access its contents
+
+Once you provide the document, I will deliver a 3-sentence summary that:
+- Focuses on technical facts and key points
+- Includes relevant technical terminology
+- Excludes emotional expressions and promotional language",4,B
+tech_summary,natural,"Summarize the following technical document in 3 sentences. Include important technical terms and numbers. Focus on facts only, without emotional expressions.","I don't see a technical document attached to your message. Could you please provide the document you'd like me to summarize? Once you share it, I'll create a 3-sentence summary that includes the important technical terms and numbers while focusing strictly on factual information.",4,A
+tech_summary,natural,"Summarize the following technical document in 3 sentences. Include important technical terms and numbers. Focus on facts only, without emotional expressions.","I don't see a technical document attached to your message. Could you please provide the document you'd like me to summarize? Once you share it, I'll create a 3-sentence summary focusing on the key technical terms, numbers, and facts.",5,A
+tech_summary,cuneiform,"Task: Technical_Document_Summary
+Purpose: Summarize long document into 3 sentences
+Input:
+  Document = ""Tech_Forum_2025_10.txt""
+  Output_Format = ""3 sentences, include technical terms, fact-based""
+  Exclude = ""Emotional expressions, promotional language""
+Output: ""Core Summary""
+","# Core Summary
+
+I'm ready to summarize the technical document, but I don't have access to the file ""Tech_Forum_2025_10.txt"". 
+
+To complete this task, please either:
+1. **Paste the document content** directly in your message, or
+2. **Upload the file** so I can access and analyze it
+
+Once you provide the document, I will generate a 3-sentence technical summary that:
+- Includes relevant technical terms
+- Presents fact-based information only
+- Excludes emotional expressions and promotional language",5,B
+creative_poem,cuneiform,"Task: Seasonal_Poem_Creation
+Purpose: Create an emotional poem
+Input:
+  Season = ""Autumn""
+  Lines = 4
+  Mood = ""Melancholic + Beautiful""
+  Technique = ""Metaphor""
+  Style = ""Contemplative""
+Output: ""Poem""
+","# Autumn Poem
+
+Golden leaves fall like memories fading,
+Each one a moment slipping through time,
+The trees stand bare, their stories cascading,
+While beauty dissolves in the season's decline.
+
+---
+
+**Technical Notes:**
+- **Metaphor**: Leaves as memories; trees as storytellers; autumn as life's transitions
+- **Mood**: Melancholic yet beautiful - capturing loss intertwined with grace
+- **Style**: Contemplative tone inviting reflection on impermanence
+- **Structure**: 4 lines with ABAB rhyme scheme, flowing rhythm",1,B
+creative_poem,natural,Write a 4-line short poem about autumn. Use metaphors and create a melancholic yet beautiful atmosphere. Reflect a contemplative mood.,"# Autumn's Whisper
+
+Golden coins fall from time's weary hand,
+Each leaf a memory drifting to rest,
+The earth pulls close her tattered blanket,
+While silence hums its bittersweet quest.",1,A
+creative_poem,natural,Write a 4-line short poem about autumn. Use metaphors and create a melancholic yet beautiful atmosphere. Reflect a contemplative mood.,"# Autumn's Whisper
+
+Golden coins fall from heaven's weary purse,
+As summer's fire fades to ember and ash.
+The earth pulls close a quilt of rust and ochre,
+While time's soft footsteps echo through the hush.",2,A
+creative_poem,cuneiform,"Task: Seasonal_Poem_Creation
+Purpose: Create an emotional poem
+Input:
+  Season = ""Autumn""
+  Lines = 4
+  Mood = ""Melancholic + Beautiful""
+  Technique = ""Metaphor""
+  Style = ""Contemplative""
+Output: ""Poem""
+","# Autumn Poem
+
+Golden leaves fall like memories fading,
+Each one a moment slipping through time,
+The trees stand bare in quiet waiting,
+While beauty dies in its gentle prime.
+
+---
+
+*This contemplative poem uses metaphor to compare falling autumn leaves to fading memories, capturing the melancholic beauty of the season's transition and the bittersweet nature of endings.*",2,B
+creative_poem,cuneiform,"Task: Seasonal_Poem_Creation
+Purpose: Create an emotional poem
+Input:
+  Season = ""Autumn""
+  Lines = 4
+  Mood = ""Melancholic + Beautiful""
+  Technique = ""Metaphor""
+  Style = ""Contemplative""
+Output: ""Poem""
+","# Autumn Poem
+
+Golden leaves descend like fading memories,  
+Each flutter whispers of summer's ghost,  
+The earth prepares its quilted reveries,  
+While I count all the warmth I've lost.
+
+---
+
+*A contemplative meditation on autumn's melancholic beauty, using the metaphor of falling leaves as memories and the season's transition as a mirror for personal loss and change.*",3,B
+creative_poem,natural,Write a 4-line short poem about autumn. Use metaphors and create a melancholic yet beautiful atmosphere. Reflect a contemplative mood.,"# Autumn's Descent
+
+Golden coins fall from skeletal hands above,
+While the earth pulls her quilt of crimson tight,
+Each breath of wind a sigh from summer's ghost,
+And I am just a leaf between the light.",3,A
+creative_poem,cuneiform,"Task: Seasonal_Poem_Creation
+Purpose: Create an emotional poem
+Input:
+  Season = ""Autumn""
+  Lines = 4
+  Mood = ""Melancholic + Beautiful""
+  Technique = ""Metaphor""
+  Style = ""Contemplative""
+Output: ""Poem""
+","# Autumn Poem
+
+Golden leaves descend like memories fading,
+Each fall a whispered goodbye to summer's warmth,
+The trees stand bare as hearts after love's leaving,
+While beauty bleeds through every dying branch.
+
+---
+
+**Technique Notes:**
+- Metaphor: Falling leaves = fading memories; bare trees = emptied hearts
+- Mood: Melancholic beauty through imagery of loss and decline
+- Style: Contemplative tone reflecting on transience and bittersweet beauty",4,B
+creative_poem,natural,Write a 4-line short poem about autumn. Use metaphors and create a melancholic yet beautiful atmosphere. Reflect a contemplative mood.,"# Autumn's Whisper
+
+The trees undress in copper and gold,
+surrendering their crowns to the wandering wind,
+while time, that patient thief, grows bold—
+stealing summer's promise, leaving memory thinned.",4,A
+creative_poem,cuneiform,"Task: Seasonal_Poem_Creation
+Purpose: Create an emotional poem
+Input:
+  Season = ""Autumn""
+  Lines = 4
+  Mood = ""Melancholic + Beautiful""
+  Technique = ""Metaphor""
+  Style = ""Contemplative""
+Output: ""Poem""
+","# Autumn Poem
+
+Golden leaves drift like forgotten promises,
+Each one a memory the trees release—
+The earth receives them in her quiet darkness,
+While summer's warmth becomes a fleeting peace.
+
+---
+
+**Technique Notes:**
+- **Metaphor**: Leaves as ""forgotten promises"" and their fall as the act of releasing memories
+- **Mood**: Melancholic beauty in the cycle of letting go
+- **Style**: Contemplative tone reflecting on transition and loss
+- **Imagery**: The contrast between golden light and gathering darkness, warmth fading into memory",5,B
+creative_poem,natural,Write a 4-line short poem about autumn. Use metaphors and create a melancholic yet beautiful atmosphere. Reflect a contemplative mood.,"# Autumn's Whisper
+
+The trees undress in copper gowns of grief,
+While time scatters memories like fallen leaves.
+The sun, a distant friend, grows pale and brief—
+And silence weaves the shroud that summer grieves.",5,A

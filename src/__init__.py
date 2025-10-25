@@ -1,0 +1,2 @@
+# Cuneiform 패키지 초기화
+__version__ = "1.0.0"
